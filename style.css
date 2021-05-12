@@ -31,3 +31,9 @@ h4, p {
     max-height: 300px;
     max-width: 300px;
 }
+.algor {
+    background-color: black;
+    max-width: 300px;
+    margin: auto;
+    border-radius: 10px;
+}
